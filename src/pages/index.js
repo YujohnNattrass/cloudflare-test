@@ -3,8 +3,8 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <main>
-      <title>Home Page</title>
-      <h1>Home page</h1>
+      <title>New Home Page</title>
+      <h1>New Home page</h1>
     </main>
   )
 }
