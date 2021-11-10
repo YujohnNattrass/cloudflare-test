@@ -7,7 +7,7 @@ const IndexPage = () => {
       <title>Home Page</title>
       <h1>Home page</h1>
       <img src={icon} />
-      <button>Click here</button>
+      <button class='click'>Click here</button>
     </main>
   )
 }
