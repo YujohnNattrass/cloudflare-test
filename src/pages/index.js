@@ -7,7 +7,7 @@ const IndexPage = () => {
       <title>Home Page</title>
       <h1>Home page</h1>
       <img src={icon} />
-      <button id='btn' class='click'>Click here</button>
+      <button id='btn' class='click' onClick={() => umami('Signup button click')}>Click here</button>
     </main>
   )
 }
